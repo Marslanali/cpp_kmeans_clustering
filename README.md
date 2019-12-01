@@ -28,7 +28,6 @@ To run, first clone the repository.
 git clone https://github.com/Marslanali/cpp_kmeans_clustering.git
 
 ```
-
 mkdir build
 cd build
 cmake ..   
