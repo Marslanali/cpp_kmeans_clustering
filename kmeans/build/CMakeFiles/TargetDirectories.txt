@@ -1,3 +1,0 @@
-/home/arslan/CLionProjects/kmeans/build/CMakeFiles/rebuild_cache.dir
-/home/arslan/CLionProjects/kmeans/build/CMakeFiles/kmeans.dir
-/home/arslan/CLionProjects/kmeans/build/CMakeFiles/edit_cache.dir
