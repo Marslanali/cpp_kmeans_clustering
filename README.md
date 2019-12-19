@@ -1,5 +1,4 @@
 # cpp_kmeans_clustering
-In progress !!!!
 
 This repositroy is C++ implementation of kmeans clustering algorithm.
 
