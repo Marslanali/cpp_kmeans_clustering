@@ -1,3 +1,11 @@
+//
+// Created by arslan on 2/12/19.
+//
+
+/**
+ * K means clustering algorithm using C++ MLPACK library
+ */
+
 #include <iostream>
 #include "matplotlibcpp.h"
 #include <mlpack/methods/kmeans/kmeans.hpp>
@@ -12,6 +20,9 @@ namespace plt = matplotlibcpp;
 int main()
 
 {
+    /**
+     *  Generate random vector using random number generators
+     */
     mat X1 = randu(500,2)*0.75+ones(500,2);
     mat X2 = randu(500,2)*0.5-ones(500,2);
 
