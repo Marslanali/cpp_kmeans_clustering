@@ -8,33 +8,33 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
+				<Option working_dir="/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
+				<Option working_dir="/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="kmeans">
-				<Option output="/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/kmeans" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
+				<Option output="/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/kmeans" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/arslan/CLionProjects/cpp_kmeans_clustering/include"/>
+					<Add directory="/home/arslanali/CLionProjects/cpp_kmeans_clustering/include"/>
 					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/c++/5"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
@@ -46,20 +46,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 kmeans"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 kmeans"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="kmeans/fast">
-				<Option output="/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/kmeans" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
+				<Option output="/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/kmeans" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/arslan/CLionProjects/cpp_kmeans_clustering/include"/>
+					<Add directory="/home/arslanali/CLionProjects/cpp_kmeans_clustering/include"/>
 					<Add directory="/usr/include/python2.7"/>
 					<Add directory="/usr/include/c++/5"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
@@ -71,27 +71,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 kmeans/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 kmeans/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
+				<Option working_dir="/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslan/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/arslanali/CLionProjects/cpp_kmeans_clustering/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/arslan/CLionProjects/cpp_kmeans_clustering/main.cpp">
+		<Unit filename="/home/arslanali/CLionProjects/cpp_kmeans_clustering/main.cpp">
 			<Option target="kmeans"/>
 		</Unit>
-		<Unit filename="/home/arslan/CLionProjects/cpp_kmeans_clustering/CMakeLists.txt">
+		<Unit filename="/home/arslanali/CLionProjects/cpp_kmeans_clustering/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/arslan/CLionProjects/cpp_kmeans_clustering/main.cpp
+/home/arslanali/CLionProjects/cpp_kmeans_clustering/main.cpp
 iostream
 -
 matplotlibcpp.h
-/home/arslan/CLionProjects/cpp_kmeans_clustering/matplotlibcpp.h
+/home/arslanali/CLionProjects/cpp_kmeans_clustering/matplotlibcpp.h
 mlpack/methods/kmeans/kmeans.hpp
 -
 armadillo
@@ -18,7 +18,7 @@ armadillo
 vector
 -
 
-/home/arslan/CLionProjects/cpp_kmeans_clustering/matplotlibcpp.h
+/home/arslanali/CLionProjects/cpp_kmeans_clustering/matplotlibcpp.h
 vector
 -
 map

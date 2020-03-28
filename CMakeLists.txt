@@ -1,9 +1,9 @@
-cmake_minimum_required(VERSION 3.15)
+cmake_minimum_required(VERSION 3.5.1)
 project(kmeans)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(kmeans main.cpp)
+add_executable(kmeans ${PROJECT_SOURCE_DIR}/main.cpp)
 
 #Matplotlib-cpp Libraries
 find_package(PythonLibs 2.7)
