@@ -1,3 +1,0 @@
-/home/arslanali/CLionProjects/cpp_kmeans_clustering/build/CMakeFiles/edit_cache.dir
-/home/arslanali/CLionProjects/cpp_kmeans_clustering/build/CMakeFiles/rebuild_cache.dir
-/home/arslanali/CLionProjects/cpp_kmeans_clustering/build/CMakeFiles/kmeans.dir
