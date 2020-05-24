@@ -18,9 +18,7 @@
 using namespace mlpack::kmeans;
 namespace plt = matplotlibcpp;
 
-int main(int argc, char** argv)
-
-{
+int main(int argc, char** argv) {
   // Generate random vector using random number generators
   arma::Mat<double> x1 = arma::randu(500, 2) * 0.75 + arma::ones(500, 2);
   arma::Mat<double> x2 = arma::randu(500, 2) * 0.5 - arma::ones(500, 2);
@@ -92,7 +90,9 @@ int main(int argc, char** argv)
   std::vector<double> c1;
   std::vector<double> c2;
 
-  for (int i = 0; i < nb_states; ++i) mu.push_back(centroids(arma::span::all, i));
+  for (int i = 0; i < nb_states; ++i) {
+    mu.push_back(centroids(arma::span::all, i));
+  }
 
   // std::cout<<"Means:\n"<<centroids<<std::endl;
 
