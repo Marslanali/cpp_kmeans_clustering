@@ -36,7 +36,7 @@ $ ./kmean --mean 1000 --sigma 500 --distance 200
 ```
 
 <p align="center">
-    <img src = "./figures/particle_filter_demo.gif" width="60%">
+    <img src = "./figures/.gif" width="60%">
 </p>
 
 ## Miscellaneous

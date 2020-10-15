@@ -9,81 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e9586df-09f3-4727-9ebe-6c5190e57be5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/animation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/animation.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/bar.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/basic.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/basic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/fill.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/fill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/fill_between.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/fill_inbetween.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/imshow.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/minimal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/minimal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/modern.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/modern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/nonblock.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/quiver.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/quiver.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/subplot.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/subplot2grid.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/surface.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/surface.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/update.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/xkcd.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlib_cpp/examples/xkcd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/matplotlibcpp.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kmeans-clustering.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.clang-format" beforeDir="false" afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/animation.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/animation.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/bar.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/basic.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/basic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/fill.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/fill.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/fill_between.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/fill_inbetween.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/imshow.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/minimal.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/minimal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/modern.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/modern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/nonblock.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/quiver.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/quiver.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/subplot.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/subplot2grid.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/surface.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/surface.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/update.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/xkcd.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib_cpp/examples/xkcd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlibcpp.h" beforeDir="false" />
-    </list>
+    <list default="true" id="8e9586df-09f3-4727-9ebe-6c5190e57be5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +58,7 @@
       <workItem from="1589905256390" duration="329000" />
       <workItem from="1590346010287" duration="181000" />
       <workItem from="1602736053665" duration="1491000" />
-      <workItem from="1602743170944" duration="2115000" />
+      <workItem from="1602743170944" duration="2397000" />
     </task>
     <servers />
   </component>
