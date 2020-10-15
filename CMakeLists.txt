@@ -35,29 +35,4 @@ include_directories(include ${GTEST_INCLUDE_DIRS} ${PYTHON_INCLUDE_DIRS}
 add_executable(test-keamn
         ${PROJECT_SOURCE_DIR}/test/test-kmeans-clustering.cpp
         )
-############################################################
-# Create an executable for kmeans Unit Test
-############################################################
-SET( google-unit-test-kmean-clustering StaticTest )
-add_executable(google-unit-test-kmean-clustering
-        ${PROJECT_SOURCE_DIR}/test/unit-test-kmeans-clustering.cpp
-        )
-############################################################
-# Target Link Libaries
-############################################################
-# link the new random_forest_library target with the hello_binary target
-target_link_libraries(test-youtube-random-forest-model
-        PRIVATE
-        random_forest_library
-        youtube_fun_library
-        ${PYTHON_LIBRARIES}  ${ARMADILLO_LIBRARIES} libmlpack.so
-        )
-
-target_link_libraries(google-unit-test-youtube-random-forest-model
-        PRIVATE
-        random_forest_library
-        youtube_fun_library
-        PUBLIC
-        ${GTEST_LIBRARIES} ${PYTHON_LIBRARIES}  ${ARMADILLO_LIBRARIES} libmlpack.so pthread
-        )
 
